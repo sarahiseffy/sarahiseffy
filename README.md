@@ -5,7 +5,7 @@
 - 📫 How to reach me cloudchii@gmail.com / @_thegadgeteer (IG account)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm an Electrical Engineer graduate with 14 years experience in HVAC but IT is my first love and has now recently learning coding.
-  //There's correlation there somewhere which I have not yet figured out.
+  //There's correlation there somewhere which I have not yet figured it out.
 
 <!---
 sarahiseffy/sarahiseffy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
