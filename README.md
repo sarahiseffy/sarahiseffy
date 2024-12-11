@@ -6,6 +6,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm an Electrical Engineer graduate with 14 years experience in HVAC but IT is my first love and has now recently learning coding.
   //There's correlation there somewhere which I have not yet figured it out.
+  //check out my shecodes profile: https://www.shecodes.io/graduates/84147-sarah-samaniego
 
 <!---
 sarahiseffy/sarahiseffy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
